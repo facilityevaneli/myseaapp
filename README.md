@@ -6,4 +6,4 @@
 
 I couldn't find a copy of the images they used in this tutorial so I found some others to use instead.
 
-This was written with NetBeans 7.2.1 and Java 7 which is close to the minimum required for the project to compile.  More information from: JavaFX - [The Rich Client Platform](http://www.oracle.com/technetwork/java/javafx/overview/index.html).
+This was written with NetBeans 7.2.1 and Java 7 which is close to the minimum required for the project to compile.  More information from: [JavaFX - The Rich Client Platform](http://www.oracle.com/technetwork/java/javafx/overview/index.html).
